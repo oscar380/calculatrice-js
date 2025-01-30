@@ -64,3 +64,9 @@ button:active {
 #clear:hover {
     background-color: rgb(252, 201, 17);
 }
+
+h1 {
+    color: rgb(218, 47, 47);
+    font-size: 40px;
+    text-align: upper;
+}
